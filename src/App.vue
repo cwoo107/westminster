@@ -301,6 +301,107 @@ comes to pass.
       </b-row>
     </b-container>
 
+    <b-container fluid style="padding-top:200px; padding-bottom:200px">
+      <b-row id='12'>
+        <b-col md='12' lg='4' offset-lg='1' style='padding-bottom:20px'>
+          <h4><b>Q. 11. What are God’s works of providence?</b></h4>
+        </b-col>
+        <b-col md='12' lg='4' offset-lg='2'>
+          <h4>
+          A. God’s works of providence are, his most holy,
+          <a v-b-popover.click="'PPs. 145:17'">
+            [a]
+          </a> 
+          wise, 
+          <a v-b-popover.click="'Ps. 104:24'" >
+          [b]
+          </a>
+          and powerful
+          <a v-b-popover.click="'Heb. 1:3'">
+            [c]
+          </a> 
+          preserving
+          <a v-b-popover.click="'Neh. 9:6'" >
+          [d]
+          </a>
+          and governing
+          <a v-b-popover.click="'Eph. 1:19-22'">
+            [e]
+          </a> 
+          all his creatures, and all their actions.
+          <a v-b-popover.click="'Ps. 36:6; Prov. 16:33; Matt. 10:30'" >
+          [f]
+          </a>
+          </h4>
+        </b-col>
+      </b-row>
+      
+    </b-container>
+    
+    <b-container fluid id='blue' style="padding-top:200px; padding-bottom:200px">
+      <b-row id='13'>
+        <b-col md='12' lg='4' offset-lg='1' style='padding-bottom:20px'>
+          <h4><b>Q. 12. What special act of providence did God exercise toward man in the estate wherein he was created?</b></h4>
+        </b-col>
+        <b-col md='12' lg='4' offset-lg='2'>
+          <h4>
+          A. When God had created man, he entered into a covenant of life with him, upon condition of perfect obedience; forbidding him to eat of the tree of the knowledge of good and evil, upon pain of death.
+          <a v-b-popover.click="'Gen. 2:16-17; Jas. 2:10'">
+            [a]
+          </a> 
+          </h4>
+        </b-col>
+      </b-row>
+    </b-container>
+
+    <b-container fluid  style="padding-top:200px; padding-bottom:200px">
+      <b-row id='14'>
+        <b-col md='12' lg='4' offset-lg='1' style='padding-bottom:20px'>
+          <h4><b>Q. 13. Did our first parents continue in the estate wherein they were created?</b></h4>
+        </b-col>
+        <b-col md='12' lg='4' offset-lg='2'>
+          <h4>
+          A. Our first parents, being left to the freedom of their own will, fell from the estate wherein they were created, by sinning against God.
+          <a v-b-popover.click="'Gen. 3:6-8, 13; 2 Cor. 11:3'">
+            [a]
+          </a> 
+          </h4>
+        </b-col>
+      </b-row>
+    </b-container>
+
+    <b-container fluid id='blue' style="padding-top:200px; padding-bottom:200px">
+      <b-row id='15'>
+        <b-col md='12' lg='4' offset-lg='1' style='padding-bottom:20px'>
+          <h4><b>Q. 14. What is sin?</b></h4>
+        </b-col>
+        <b-col md='12' lg='4' offset-lg='2'>
+          <h4>
+            A. Sin is any want of conformity unto, or transgression of, the law of God.
+          <a v-b-popover.click="'Lev. 5:17; Jas. 4:17; 1 John 3:4'">
+            [a]
+          </a> 
+          </h4>
+        </b-col>
+      </b-row>
+    </b-container>
+
+    <b-container fluid  style="padding-top:200px; padding-bottom:200px">
+      <b-row id='16'>
+        <b-col md='12' lg='4' offset-lg='1' style='padding-bottom:20px'>
+          <h4><b>Q. 15. What was the sin whereby our first parents fell from the estate wherein they were created?</b></h4>
+        </b-col>
+        <b-col md='12' lg='4' offset-lg='2'>
+          <h4>
+            A. The sin whereby our first parents fell from the estate wherein thy were created, was their eating the forbidden fruit.
+          <a v-b-popover.click="'Gen. 3:6'">
+            [a]
+          </a> 
+          </h4>
+        </b-col>
+      </b-row>
+    </b-container>
+
   </div>
 </template>
 
