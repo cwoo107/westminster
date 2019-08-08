@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <b-container fluid id='blue' >
+    <b-container fluid class='blue' >
       <b-row>
         <b-col>
           <img src="./assets/westminster_shorter.svg" height=auto width=800>
@@ -61,9 +61,8 @@
       </a>
       </b-container>
     </b-container >
-    <a id='1' />
-    <b-container fluid style="padding-top:200px; padding-bottom:200px">
-      <b-row id='2'>
+    <b-container id='1' fluid style="padding-top:200px; padding-bottom:200px">
+      <b-row >
         <b-col md='12' lg='4' offset-lg='1' style='padding-bottom:20px'>
           <h4><b>Q. 1. What is the chief end of man?</b></h4>
         </b-col>
@@ -83,8 +82,8 @@
       
     </b-container>
     
-    <b-container fluid id='blue' style="padding-top:200px; padding-bottom:200px">
-      <b-row id='3'>
+    <b-container id='2' fluid class='blue' style="padding-top:200px; padding-bottom:200px">
+      <b-row >
         <b-col md='12' lg='4' offset-lg='1' style='padding-bottom:20px'>
           <h4><b>Q. 2. What rule hath God given to direct us how we may glorify and enjoy him?</b></h4>
         </b-col>
@@ -103,8 +102,8 @@
       </b-row>
     </b-container>
 
-    <b-container fluid style="padding-top:200px; padding-bottom:200px">
-      <b-row id='4'>
+    <b-container id='3' fluid style="padding-top:200px; padding-bottom:200px">
+      <b-row >
         <b-col md='12' lg='4' offset-lg='1' style='padding-bottom:20px'>
           <h4><b>Q. 3. What do the Scriptures principally teach?</b></h4>
         </b-col>
@@ -123,8 +122,8 @@
       </b-row>
     </b-container>
 
-    <b-container fluid id='blue' style="padding-top:200px; padding-bottom:200px">
-      <b-row id='5'>
+    <b-container fluid id='4' class='blue' style="padding-top:200px; padding-bottom:200px">
+      <b-row >
         <b-col md='12' lg='4' offset-lg='1' style='padding-bottom:20px'>
           <h4><b>Q. 4. What is God?</b></h4>
         </b-col>
@@ -179,8 +178,8 @@
       </b-row>
     </b-container>
 
-    <b-container fluid style="padding-top:200px; padding-bottom:200px">
-      <b-row id='6'>
+    <b-container fluid id='5' style="padding-top:200px; padding-bottom:200px">
+      <b-row >
         <b-col md='12' lg='4' offset-lg='1' style='padding-bottom:20px'>
           <h4><b>Q. 5. Are there more Gods than one?</b></h4>
         </b-col>
@@ -199,8 +198,8 @@
       </b-row>
     </b-container>
 
-    <b-container fluid id='blue' style="padding-top:200px; padding-bottom:200px">
-      <b-row id='7'>
+    <b-container fluid id='6' class='blue' style="padding-top:200px; padding-bottom:200px">
+      <b-row >
         <b-col md='12' lg='4' offset-lg='1' style='padding-bottom:20px'>
           <h4><b>Q. 6. How many persons are there in the Godhead?</b></h4>
         </b-col>
@@ -219,8 +218,8 @@
       </b-row>
     </b-container>
 
-    <b-container fluid style="padding-top:200px; padding-bottom:200px">
-      <b-row id='8'>
+    <b-container fluid  id='7' style="padding-top:200px; padding-bottom:200px">
+      <b-row >
         <b-col md='12' lg='4' offset-lg='1' style='padding-bottom:20px'>
           <h4><b>Q. 7. What are the decrees of God?</b></h4>
         </b-col>
@@ -237,8 +236,8 @@ comes to pass.
       </b-row>
     </b-container>
 
-    <b-container fluid id='blue' style="padding-top:200px; padding-bottom:200px">
-      <b-row id='9'>
+    <b-container fluid  id='8' class='blue' style="padding-top:200px; padding-bottom:200px">
+      <b-row >
         <b-col md='12' lg='4' offset-lg='1' style='padding-bottom:20px'>
           <h4><b>Q. 8. How doth God execute his decrees?</b></h4>
         </b-col>
@@ -253,8 +252,8 @@ comes to pass.
       </b-row>
     </b-container>
 
-    <b-container fluid style="padding-top:200px; padding-bottom:200px">
-      <b-row id='10'>
+    <b-container fluid  id='9' style="padding-top:200px; padding-bottom:200px">
+      <b-row >
         <b-col md='12' lg='4' offset-lg='1' style='padding-bottom:20px'>
           <h4><b>Q. 9. What is the work of creation?</b></h4>
         </b-col>
@@ -273,8 +272,8 @@ comes to pass.
       </b-row>
     </b-container>
 
-    <b-container fluid id='blue' style="padding-top:200px; padding-bottom:200px">
-      <b-row id='11'>
+    <b-container fluid  id='10' class='blue' style="padding-top:200px; padding-bottom:200px">
+      <b-row >
         <b-col md='12' lg='4' offset-lg='1' style='padding-bottom:20px'>
           <h4><b>Q. 10. How did God create man?</b></h4>
         </b-col>
@@ -301,8 +300,8 @@ comes to pass.
       </b-row>
     </b-container>
 
-    <b-container fluid style="padding-top:200px; padding-bottom:200px">
-      <b-row id='12'>
+    <b-container fluid  id='11' style="padding-top:200px; padding-bottom:200px">
+      <b-row >
         <b-col md='12' lg='4' offset-lg='1' style='padding-bottom:20px'>
           <h4><b>Q. 11. What are God’s works of providence?</b></h4>
         </b-col>
@@ -338,8 +337,8 @@ comes to pass.
       
     </b-container>
     
-    <b-container fluid id='blue' style="padding-top:200px; padding-bottom:200px">
-      <b-row id='13'>
+    <b-container fluid  id='12' class='blue' style="padding-top:200px; padding-bottom:200px">
+      <b-row >
         <b-col md='12' lg='4' offset-lg='1' style='padding-bottom:20px'>
           <h4><b>Q. 12. What special act of providence did God exercise toward man in the estate wherein he was created?</b></h4>
         </b-col>
@@ -354,8 +353,8 @@ comes to pass.
       </b-row>
     </b-container>
 
-    <b-container fluid  style="padding-top:200px; padding-bottom:200px">
-      <b-row id='14'>
+    <b-container fluid   id='13' style="padding-top:200px; padding-bottom:200px">
+      <b-row >
         <b-col md='12' lg='4' offset-lg='1' style='padding-bottom:20px'>
           <h4><b>Q. 13. Did our first parents continue in the estate wherein they were created?</b></h4>
         </b-col>
@@ -370,8 +369,8 @@ comes to pass.
       </b-row>
     </b-container>
 
-    <b-container fluid id='blue' style="padding-top:200px; padding-bottom:200px">
-      <b-row id='15'>
+    <b-container fluid  id='14' class='blue' style="padding-top:200px; padding-bottom:200px">
+      <b-row >
         <b-col md='12' lg='4' offset-lg='1' style='padding-bottom:20px'>
           <h4><b>Q. 14. What is sin?</b></h4>
         </b-col>
@@ -386,8 +385,8 @@ comes to pass.
       </b-row>
     </b-container>
 
-    <b-container fluid  style="padding-top:200px; padding-bottom:200px">
-      <b-row id='16'>
+    <b-container fluid  id='15'  style="padding-top:200px; padding-bottom:200px">
+      <b-row >
         <b-col md='12' lg='4' offset-lg='1' style='padding-bottom:20px'>
           <h4><b>Q. 15. What was the sin whereby our first parents fell from the estate wherein they were created?</b></h4>
         </b-col>
@@ -427,7 +426,7 @@ export default {
   
 }
 
-#blue {
+.blue {
   background: #172937;
   color: white;
 }
