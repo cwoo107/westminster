@@ -6,9 +6,64 @@
           <img src="./assets/westminster_shorter.svg" height=auto width=800>
         </b-col>
       </b-row>
+    <b-container >
+      <a>
+        <a href='#1'>Q1</a> /
+        <a href='#2'>Q2</a> /
+        <a href='#3'>Q3</a> /
+        <a href='#4'>Q4</a> /
+        <a href='#5'>Q5</a> /
+        <a href='#6'>Q6</a> /
+        <a href='#7'>Q7</a> /
+        <a href='#8'>Q8</a> /
+        <a href='#9'>Q9</a> / 
+        <a href='#10'>Q10</a> /
+        <a href='#11'>Q11</a> /
+        <a href='#12'>Q12</a> /
+        <a href='#13'>Q13</a> /
+        <a href='#14'>Q14</a> /
+        <a href='#15'>Q15</a> /
+        <a href='#16'>Q16</a> /
+        <a href='#17'>Q17</a> /
+        <a href='#18'>Q18</a> /
+        <a href='#19'>Q19</a> / 
+        <a href='#20'>Q20</a> /
+        <a href='#21'>Q21</a> /
+        <a href='#22'>Q22</a> /
+        <a href='#23'>Q23</a> /
+        <a href='#24'>Q24</a> /
+        <a href='#25'>Q25</a> /
+        <a href='#26'>Q26</a> /
+        <a href='#27'>Q27</a> /
+        <a href='#28'>Q28</a> /
+        <a href='#29'>Q29</a> / 
+        <a href='#30'>Q30</a> /
+        <a href='#31'>Q31</a> /
+        <a href='#32'>Q32</a> /
+        <a href='#33'>Q33</a> /
+        <a href='#34'>Q34</a> /
+        <a href='#35'>Q35</a> /
+        <a href='#36'>Q36</a> /
+        <a href='#37'>Q37</a> /
+        <a href='#38'>Q38</a> /
+        <a href='#39'>Q39</a> / 
+        <a href='#40'>Q40</a> /
+        <a href='#41'>Q41</a> /
+        <a href='#42'>Q42</a> /
+        <a href='#43'>Q43</a> /
+        <a href='#44'>Q44</a> /
+        <a href='#45'>Q45</a> /
+        <a href='#46'>Q46</a> /
+        <a href='#47'>Q47</a> /
+        <a href='#48'>Q48</a> /
+        <a href='#49'>Q49</a> / 
+        <a href='#50'>Q50</a> /
+      </a>
+      </b-container>
     </b-container >
+    <a id='1' />
     <b-container fluid style="padding-top:200px; padding-bottom:200px">
-      <b-row>
+      <b-row id='2'>
         <b-col md='12' lg='4' offset-lg='1' style='padding-bottom:20px'>
           <h4><b>Q. 1. What is the chief end of man?</b></h4>
         </b-col>
@@ -29,7 +84,7 @@
     </b-container>
     
     <b-container fluid id='blue' style="padding-top:200px; padding-bottom:200px">
-      <b-row>
+      <b-row id='3'>
         <b-col md='12' lg='4' offset-lg='1' style='padding-bottom:20px'>
           <h4><b>Q. 2. What rule hath God given to direct us how we may glorify and enjoy him?</b></h4>
         </b-col>
@@ -49,7 +104,7 @@
     </b-container>
 
     <b-container fluid style="padding-top:200px; padding-bottom:200px">
-      <b-row>
+      <b-row id='4'>
         <b-col md='12' lg='4' offset-lg='1' style='padding-bottom:20px'>
           <h4><b>Q. 3. What do the Scriptures principally teach?</b></h4>
         </b-col>
@@ -69,7 +124,7 @@
     </b-container>
 
     <b-container fluid id='blue' style="padding-top:200px; padding-bottom:200px">
-      <b-row>
+      <b-row id='5'>
         <b-col md='12' lg='4' offset-lg='1' style='padding-bottom:20px'>
           <h4><b>Q. 4. What is God?</b></h4>
         </b-col>
@@ -125,7 +180,7 @@
     </b-container>
 
     <b-container fluid style="padding-top:200px; padding-bottom:200px">
-      <b-row>
+      <b-row id='6'>
         <b-col md='12' lg='4' offset-lg='1' style='padding-bottom:20px'>
           <h4><b>Q. 5. Are there more Gods than one?</b></h4>
         </b-col>
@@ -145,7 +200,7 @@
     </b-container>
 
     <b-container fluid id='blue' style="padding-top:200px; padding-bottom:200px">
-      <b-row>
+      <b-row id='7'>
         <b-col md='12' lg='4' offset-lg='1' style='padding-bottom:20px'>
           <h4><b>Q. 6. How many persons are there in the Godhead?</b></h4>
         </b-col>
@@ -165,7 +220,7 @@
     </b-container>
 
     <b-container fluid style="padding-top:200px; padding-bottom:200px">
-      <b-row>
+      <b-row id='8'>
         <b-col md='12' lg='4' offset-lg='1' style='padding-bottom:20px'>
           <h4><b>Q. 7. What are the decrees of God?</b></h4>
         </b-col>
@@ -183,7 +238,7 @@ comes to pass.
     </b-container>
 
     <b-container fluid id='blue' style="padding-top:200px; padding-bottom:200px">
-      <b-row>
+      <b-row id='9'>
         <b-col md='12' lg='4' offset-lg='1' style='padding-bottom:20px'>
           <h4><b>Q. 8. How doth God execute his decrees?</b></h4>
         </b-col>
@@ -199,7 +254,7 @@ comes to pass.
     </b-container>
 
     <b-container fluid style="padding-top:200px; padding-bottom:200px">
-      <b-row>
+      <b-row id='10'>
         <b-col md='12' lg='4' offset-lg='1' style='padding-bottom:20px'>
           <h4><b>Q. 9. What is the work of creation?</b></h4>
         </b-col>
@@ -219,7 +274,7 @@ comes to pass.
     </b-container>
 
     <b-container fluid id='blue' style="padding-top:200px; padding-bottom:200px">
-      <b-row>
+      <b-row id='11'>
         <b-col md='12' lg='4' offset-lg='1' style='padding-bottom:20px'>
           <h4><b>Q. 10. How did God create man?</b></h4>
         </b-col>
