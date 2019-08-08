@@ -9,10 +9,10 @@
     </b-container >
     <b-container fluid style="padding-top:200px; padding-bottom:200px">
       <b-row>
-        <b-col sm='12' md='4' offset-md='1' style='padding-bottom:20px'>
+        <b-col md='12' lg='4' offset-lg='1' style='padding-bottom:20px'>
           <h4><b>Q. 1. What is the chief end of man?</b></h4>
         </b-col>
-        <b-col sm='12' md='4' offset-md='1'>
+        <b-col md='12' lg='4' offset-lg='2'>
           <h4>
           A. Man’s chief end is to glorify God, 
           <a v-b-popover.click="'Ps. 86:9; Isa. 60:21; Rom. 11:36; 1 Cor. 6:20; 10:31; Rev. 4:11'">
@@ -30,10 +30,10 @@
     
     <b-container fluid id='blue' style="padding-top:200px; padding-bottom:200px">
       <b-row>
-        <b-col sm='12' md='4' offset-md='1' style='padding-bottom:20px'>
+        <b-col md='12' lg='4' offset-lg='1' style='padding-bottom:20px'>
           <h4><b>Q. 2. What rule hath God given to direct us how we may glorify and enjoy him?</b></h4>
         </b-col>
-        <b-col sm='12' md='4' offset-md='1'>
+        <b-col md='12' lg='4' offset-lg='2'>
           <h4>
           A. The Word of God, which is contained in the Scriptures of the Old and New Testaments,  
           <a v-b-popover.click="' Matt. 19:4-5 with Gen. 2:24; Luke 24:27, 44; 1 Cor. 2:13; 14:37; 2 Pet.1:20-21; 3:2, 15-16'">
@@ -50,10 +50,10 @@
 
     <b-container fluid style="padding-top:200px; padding-bottom:200px">
       <b-row>
-        <b-col sm='12' md='4' offset-md='1' style='padding-bottom:20px'>
+        <b-col md='12' lg='4' offset-lg='1' style='padding-bottom:20px'>
           <h4><b>Q. 3. What do the Scriptures principally teach?</b></h4>
         </b-col>
-        <b-col sm='12' md='4' offset-md='1'>
+        <b-col md='12' lg='4' offset-lg='2'>
           <h4>
           A. The Scriptures principally teach what man is to believe concerning God,  
           <a v-b-popover.click="'Gen. 1:1; John 5:39; 20:31; Rom. 10:17; 2 Tim. 3:15'">
@@ -70,10 +70,10 @@
 
     <b-container fluid id='blue' style="padding-top:200px; padding-bottom:200px">
       <b-row>
-        <b-col sm='12' md='4' offset-md='1' style='padding-bottom:20px'>
+        <b-col md='12' lg='4' offset-lg='1' style='padding-bottom:20px'>
           <h4><b>Q. 4. What is God?</b></h4>
         </b-col>
-        <b-col sm='12' md='4' offset-md='1'>
+        <b-col md='12' lg='4' offset-lg='2'>
           <h4>
           A. God is a Spirit   
           <a v-b-popover.click="'Deut. 4:15-19; Luke 24:39; John 1:18; 4:24; Acts 17:29'">
@@ -126,10 +126,10 @@
 
     <b-container fluid style="padding-top:200px; padding-bottom:200px">
       <b-row>
-        <b-col sm='12' md='4' offset-md='1' style='padding-bottom:20px'>
+        <b-col md='12' lg='4' offset-lg='1' style='padding-bottom:20px'>
           <h4><b>Q. 5. Are there more Gods than one?</b></h4>
         </b-col>
-        <b-col sm='12' md='4' offset-md='1'>
+        <b-col md='12' lg='4' offset-lg='2'>
           <h4>
           A. There is but one only  
           <a v-b-popover.click="' Deut. 6:4; Isa. 44:6; 45:21-22; 1 Cor. 8:4-6'">
