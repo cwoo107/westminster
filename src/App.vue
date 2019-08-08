@@ -114,8 +114,13 @@
         <a href='#104'>Q104</a> /
         <a href='#105'>Q105</a> /
         <a href='#106'>Q106</a> /
-        <a href='#107'>Q107</a> /
+        <a href='#107'>Q107</a>
       </a>
+      <b-row>
+        <b-col sm='4' offset-sm='4'>
+          <a href='#1'><unicon name="angle-down" fill='#858170' height="50" width="50" /></a>
+        </b-col>
+      </b-row>
       </b-container>
     </b-container >
     <b-container id='1' fluid style="padding-top:200px; padding-bottom:200px">
@@ -756,7 +761,6 @@ comes to pass.
            in being buried, and continuing under the power of death for a time.
           <a v-b-popover.click="'Matt. 12:40; 1 Cor. 15:3-4'">
             [f]
-          </a>
           </a>
           </h4>
         </b-col>
@@ -2319,6 +2323,15 @@ comes to pass.
             [c]
           </a> 
           </h4>
+        </b-col>
+      </b-row>
+    </b-container>
+
+    <b-container fluid class='blue' style="padding-top:25px; padding-bottom:25px">
+      <b-row >
+        <b-col sm='4' offset-sm='4'>
+          <a href='https://github.com/cwoo107/westminster' ><unicon name="github-alt" fill='white' height="50" width="50" /></a>
+          <a href='https://vuejs.org' ><unicon name="vuejs-alt" fill='white' height="50" width="50"  /></a>
         </b-col>
       </b-row>
     </b-container>
