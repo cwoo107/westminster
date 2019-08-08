@@ -15,11 +15,11 @@
         <b-col cols='4' offset='2'>
           <h4>
           A. Man’s chief end is to glorify God, 
-          <a v-b-popover.hover="'Ps. 86:9; Isa. 60:21; Rom. 11:36; 1 Cor. 6:20; 10:31; Rev. 4:11'">
+          <a v-b-popover.click="'Ps. 86:9; Isa. 60:21; Rom. 11:36; 1 Cor. 6:20; 10:31; Rev. 4:11'">
             [a]
           </a> 
           and to enjoy him for ever. 
-          <a v-b-popover.hover="'Ps. 16:5-11; 144:15; Isa. 12:2; Luke 2:10; Phil. 4:4; Rev. 21:3-4'" >
+          <a v-b-popover.click="'Ps. 16:5-11; 144:15; Isa. 12:2; Luke 2:10; Phil. 4:4; Rev. 21:3-4'" >
           [b]
           </a>
           </h4>
@@ -36,11 +36,11 @@
         <b-col cols='4' offset='2'>
           <h4>
           A. The Word of God, which is contained in the Scriptures of the Old and New Testaments,  
-          <a v-b-popover.hover="' Matt. 19:4-5 with Gen. 2:24; Luke 24:27, 44; 1 Cor. 2:13; 14:37; 2 Pet.1:20-21; 3:2, 15-16'">
+          <a v-b-popover.click="' Matt. 19:4-5 with Gen. 2:24; Luke 24:27, 44; 1 Cor. 2:13; 14:37; 2 Pet.1:20-21; 3:2, 15-16'">
             [a]
           </a> 
           is the only rule to direct us how we may glorify and enjoy him.
-          <a v-b-popover.hover="'Deut. 4:2; Ps. 19:7-11; Isa. 8:20; John 15:11; 20:30-31; Acts 17:11; 2 Tim. 3:15-17; 1 John 1:4'" >
+          <a v-b-popover.click="'Deut. 4:2; Ps. 19:7-11; Isa. 8:20; John 15:11; 20:30-31; Acts 17:11; 2 Tim. 3:15-17; 1 John 1:4'" >
           [b]
           </a>
           </h4>
