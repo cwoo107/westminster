@@ -75,47 +75,47 @@
         </b-col>
         <b-col md='12' lg='4' offset-lg='2'>
           <h4>
-          A. God is a Spirit   
+          A. God is a Spirit,  
           <a v-b-popover.click="'Deut. 4:15-19; Luke 24:39; John 1:18; 4:24; Acts 17:29'">
             [a]
           </a> 
-          , infinite
+           infinite,
           <a v-b-popover.click="' 1 Kings 8:27; Ps. 139:7-10; 145:3; 147:5; Jer. 23:24; Rom. 11:33-36'" >
           [b]
           </a>
-           , eternal   
+            eternal, 
           <a v-b-popover.click="'Deut. 4:15-19; Luke 24:39; John 1:18; 4:24; Acts 17:29'">
             [c]
           </a> 
-          , and unchangeable 
+           and unchangeable 
           <a v-b-popover.click="'Ps. 33:11; Mal. 3:6; Heb. 1:12; 6:17-18; 13:8; Jas. 1:17'" >
           [d]
           </a>
-            in his being   
+            in his being,  
           <a v-b-popover.click="' Ex. 3:14; Ps. 115:2-3; 1 Tim. 1:17; 6:15-16'">
             [e]
           </a> 
-          , wisdom 
+           wisdom, 
           <a v-b-popover.click="' Ps. 104:24; Rom. 11:33-34; Heb. 4:13; 1 John 3:20'" >
           [f]
           </a>
-           , power   
+            power,   
           <a v-b-popover.click="' Gen. 17:1; Ps. 62:11; Jer. 32:17; Mat. 19:26; Rev. 1:8'">
             [g]
           </a> 
-          , holiness 
+           holiness, 
           <a v-b-popover.click="' Heb. 1:13; I Pet. 1:15-16; 1 John 3:3, 5; Rev. 15:4'" >
           [h]
           </a>
-           , justice  
+            justice,  
           <a v-b-popover.click="' Gen. 18:25; Ex. 34:6-7; Deut. 32:4; Ps. 96:13; Rom. 3:5, 26'">
             [i]
           </a> 
-          , goodness 
+           goodness, 
           <a v-b-popover.click="' Ps. 103:5; 107:8; Matt. 19:17; Rom. 2:4'" >
           [j]
           </a>
-          , and truth 
+           and truth, 
           <a v-b-popover.click="' Ex. 34:6; Deut. 32:4; Ps. 86:15; 117:2; Heb. 6:18'" >
           [k].
           </a>
@@ -131,13 +131,115 @@
         </b-col>
         <b-col md='12' lg='4' offset-lg='2'>
           <h4>
-          A. There is but one only  
+          A. There is but one only,  
           <a v-b-popover.click="' Deut. 6:4; Isa. 44:6; 45:21-22; 1 Cor. 8:4-6'">
             [a]
           </a> 
-          , the living and true God
+           the living and true God.
           <a v-b-popover.click="'Jer. 10:10; John 17:3; 1 Thess. 1:9; 1 John 5:20'" >
-          [b].
+          [b]
+          </a>
+          </h4>
+        </b-col>
+      </b-row>
+    </b-container>
+
+    <b-container fluid id='blue' style="padding-top:200px; padding-bottom:200px">
+      <b-row>
+        <b-col md='12' lg='4' offset-lg='1' style='padding-bottom:20px'>
+          <h4><b>Q. 6. How many persons are there in the Godhead?</b></h4>
+        </b-col>
+        <b-col md='12' lg='4' offset-lg='2'>
+          <h4>
+          A. There are three persons in the Godhead; the Father, the Son, and the Holy Ghost;   
+          <a v-b-popover.click="' Matt. 3:16-17; 28:19; 2 Cor. 13:14; 1 Pet. 1:2'">
+            [a]
+          </a> 
+           and these three are one God, the same in substance, equal in power and glory.
+          <a v-b-popover.click="' Ps. 45:6; John 1:1; 17:5; Acts 5:3-4; Rom. 9:5; Col. 2:9; Jude 24-25'" >
+          [b]
+          </a>
+          </h4>
+        </b-col>
+      </b-row>
+    </b-container>
+
+    <b-container fluid style="padding-top:200px; padding-bottom:200px">
+      <b-row>
+        <b-col md='12' lg='4' offset-lg='1' style='padding-bottom:20px'>
+          <h4><b>Q. 7. What are the decrees of God?</b></h4>
+        </b-col>
+        <b-col md='12' lg='4' offset-lg='2'>
+          <h4>
+          A. The decrees of God are, his eternal purpose, according to the counsel
+of his will, whereby, for his own glory, he hath foreordained whatsoever
+comes to pass.
+          <a v-b-popover.click="' Ps. 33:11; Isa. 14:24; Acts 2:23; Eph. 1:11-12'">
+            [a]
+          </a> 
+          </h4>
+        </b-col>
+      </b-row>
+    </b-container>
+
+    <b-container fluid id='blue' style="padding-top:200px; padding-bottom:200px">
+      <b-row>
+        <b-col md='12' lg='4' offset-lg='1' style='padding-bottom:20px'>
+          <h4><b>Q. 8. How doth God execute his decrees?</b></h4>
+        </b-col>
+        <b-col md='12' lg='4' offset-lg='2'>
+          <h4>
+          A. God executeth his decrees in the works of creation and providence. 
+          <a v-b-popover.click="' Ps. 148:8; Isa. 40:26; Dan. 4:35; Acts 4:24-28; Rev. 4:11'">
+            [a]
+          </a> 
+          </h4>
+        </b-col>
+      </b-row>
+    </b-container>
+
+    <b-container fluid style="padding-top:200px; padding-bottom:200px">
+      <b-row>
+        <b-col md='12' lg='4' offset-lg='1' style='padding-bottom:20px'>
+          <h4><b>Q. 9. What is the work of creation?</b></h4>
+        </b-col>
+        <b-col md='12' lg='4' offset-lg='2'>
+          <h4>
+          A. The work of creation is, God’s making all things of nothing, by the word of his power,  
+          <a v-b-popover.click="' Gen. 1:1; Ps. 33:6, 9; Heb. 11:3'">
+            [a]
+          </a> 
+           in the space of six days, and all very good.
+          <a v-b-popover.click="'Gen. 1:31'" >
+          [b]
+          </a>
+          </h4>
+        </b-col>
+      </b-row>
+    </b-container>
+
+    <b-container fluid id='blue' style="padding-top:200px; padding-bottom:200px">
+      <b-row>
+        <b-col md='12' lg='4' offset-lg='1' style='padding-bottom:20px'>
+          <h4><b>Q. 10. How did God create man?</b></h4>
+        </b-col>
+        <b-col md='12' lg='4' offset-lg='2'>
+          <h4>
+          A. God created man male and female, after his own image   
+          <a v-b-popover.click="'Gen. 1:27'">
+            [a]
+          </a> 
+            in knowledge
+          <a v-b-popover.click="'Col. 3:10'" >
+          [b]
+          </a>
+          righteousness, and holiness   
+          <a v-b-popover.click="'Eph. 4:24'">
+            [c]
+          </a> 
+           with dominion over the creatures
+          <a v-b-popover.click="'Gen. 1:28; see Ps. 8'" >
+          [d]
           </a>
           </h4>
         </b-col>
