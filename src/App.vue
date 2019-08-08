@@ -2331,7 +2331,7 @@ comes to pass.
       <b-row >
         <b-col sm='4' offset-sm='4'>
           <a href='https://github.com/cwoo107/westminster' ><unicon name="github-alt" fill='white' height="50" width="50" /></a>
-          <a href='https://vuejs.org' ><unicon name="vuejs-alt" fill='white' height="50" width="50"  /></a>
+          <!--<a href='https://vuejs.org' ><unicon name="vuejs-alt" fill='white' height="50" width="50"  /></a>-->
         </b-col>
       </b-row>
     </b-container>
