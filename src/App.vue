@@ -6,8 +6,7 @@
           <img src="./assets/westminster_shorter.svg" height=auto width=900 style="position: relative; ">
         </b-col>
       </b-row>
-    </b-container>
-    <b-container fluid class='blue' style=''>
+    
       <b-row >
         <b-col lg='12' offset-lg='0' md='8' offset-md="2" >
       <a>
