@@ -3,11 +3,11 @@
     <b-container fluid class='blue' >
       <b-row>
         <b-col xs='12'>
-          <img src="./assets/westminster_shorter.svg" height=auto width=900 style="position: relative;">
+          <img src="./assets/westminster_shorter.svg" height=auto width=900 style="position: relative; ">
         </b-col>
       </b-row>
     </b-container>
-    <b-container fluid class='blue' style='margin-top:-50px; position: absolute;'>
+    <b-container fluid class='blue' style=''>
       <b-row >
         <b-col lg='12' offset-lg='0' md='8' offset-md="2" >
       <a>
@@ -2360,7 +2360,8 @@ export default {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50
+  color: #2c3e50;
+  margin-top:-50px
   
 }
 
