@@ -1,12 +1,15 @@
 <template>
   <div id="app">
-    <b-container fluid class='blue' style="margin-top:-60px">
+    <b-container fluid class='blue' >
       <b-row>
-        <b-col>
-          <img src="./assets/westminster_shorter.svg" height=auto width=800>
+        <b-col xs='12'>
+          <img src="./assets/westminster_shorter.svg" height=auto width=900 style="position: relative;">
         </b-col>
       </b-row>
-    <b-container >
+    </b-container>
+    <b-container fluid class='blue' style='margin-top:-50px; position: absolute;'>
+      <b-row >
+        <b-col xs='12'>
       <a>
         <a href='#1'>Q1</a> /
         <a href='#2'>Q2</a> /
@@ -116,12 +119,13 @@
         <a href='#106'>Q106</a> /
         <a href='#107'>Q107</a>
       </a>
+        </b-col>
+      </b-row>
       <b-row>
-        <b-col sm='4' offset-sm='4'>
+        <b-col xs='4' offset-xs='4'>
           <a href='#1'><unicon name="angle-down" fill='#858170' height="50" width="50" /></a>
         </b-col>
       </b-row>
-      </b-container>
     </b-container >
     <b-container id='1' fluid style="padding-top:200px; padding-bottom:200px">
       <b-row >
@@ -2356,8 +2360,7 @@ export default {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+  color: #2c3e50
   
 }
 
