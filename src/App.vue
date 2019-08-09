@@ -9,7 +9,7 @@
     </b-container>
     <b-container fluid class='blue' style='margin-top:-50px; position: absolute;'>
       <b-row >
-        <b-col sm='8' offset-sm='2' md='12'>
+        <b-col lg='12' offset-lg='0' md='8' offset-md="2" >
       <a>
         <a href='#1'>Q1</a> /
         <a href='#2'>Q2</a> /
@@ -127,7 +127,7 @@
         </b-col>
       </b-row>
     </b-container >
-    <b-container id='1' fluid style="padding-top:200px; padding-bottom:200px">
+    <b-container id='1' fluid style="padding-top:200px; padding-bottom:200px;">
       <b-row >
         <b-col md='12' lg='4' offset-lg='1' style='padding-bottom:20px'>
           <h4><b>Q. 1. What is the chief end of man?</b></h4>
