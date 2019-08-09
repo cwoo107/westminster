@@ -9,7 +9,7 @@
     </b-container>
     <b-container fluid class='blue' style='margin-top:-50px; position: absolute;'>
       <b-row >
-        <b-col xs='6' offset-xs='3' sm='12'>
+        <b-col sm='8' offset-sm='2' md='12'>
       <a>
         <a href='#1'>Q1</a> /
         <a href='#2'>Q2</a> /
