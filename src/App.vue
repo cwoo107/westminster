@@ -8,8 +8,8 @@
       </b-row>
     
       <b-row >
-        <b-col cols="12" class="d-lg-none" >
-          <div tabs justified  v-b-scrollspy:nav-scroller style='  padding-top: 15px'>
+        <b-col cols="12"  >
+          <div tabs justified  v-b-scrollspy:nav-scroller >
           <b-nav-item href="#1">Q01</b-nav-item>
           <b-nav-item href="#2">Q02</b-nav-item>
           <b-nav-item href="#3">Q03</b-nav-item>
