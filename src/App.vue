@@ -8,8 +8,117 @@
       </b-row>
     
       <b-row >
-        <b-col lg='12' offset-lg='0' md='8' offset-md="2" >
-      <a>
+        <b-col cols="12" class="d-lg-none" >
+          <div tabs justified  v-b-scrollspy:nav-scroller style='text-align:left !important; padding-top: 15px'>
+          <b-nav-item href="#1">Q01</b-nav-item>
+          <b-nav-item href="#2">Q02</b-nav-item>
+          <b-nav-item href="#3">Q03</b-nav-item>
+          <b-nav-item href="#4">Q04</b-nav-item>
+          <b-nav-item href="#5">Q05</b-nav-item>
+          <b-nav-item href="#6">Q06</b-nav-item>
+          <b-nav-item href="#7">Q07</b-nav-item>
+          <b-nav-item href="#8">Q08</b-nav-item>
+          <b-nav-item href="#9">Q09</b-nav-item>
+          <b-nav-item href="#10">Q10</b-nav-item>
+          <b-nav-item href="#11">Q11</b-nav-item>
+          <b-nav-item href="#12">Q12</b-nav-item>
+          <b-nav-item href="#13">Q13</b-nav-item>
+          <b-nav-item href="#14">Q14</b-nav-item>
+          <b-nav-item href="#15">Q15</b-nav-item>
+          <b-nav-item href="#16">Q16</b-nav-item>
+          <b-nav-item href="#17">Q17</b-nav-item>
+          <b-nav-item href="#18">Q18</b-nav-item>
+          <b-nav-item href="#19">Q19</b-nav-item>
+          <b-nav-item href="#20">Q20</b-nav-item>
+          <b-nav-item href="#21">Q21</b-nav-item>
+          <b-nav-item href="#22">Q22</b-nav-item>
+          <b-nav-item href="#23">Q23</b-nav-item>
+          <b-nav-item href="#24">Q24</b-nav-item>
+          <b-nav-item href="#25">Q25</b-nav-item>
+          <b-nav-item href="#26">Q26</b-nav-item>
+          <b-nav-item href="#27">Q27</b-nav-item>
+          <b-nav-item href="#28">Q28</b-nav-item>
+          <b-nav-item href="#29">Q29</b-nav-item>
+          <b-nav-item href="#30">Q30</b-nav-item>
+          <b-nav-item href="#31">Q31</b-nav-item>
+          <b-nav-item href="#32">Q32</b-nav-item>
+          <b-nav-item href="#33">Q33</b-nav-item>
+          <b-nav-item href="#34">Q34</b-nav-item>
+          <b-nav-item href="#35">Q35</b-nav-item>
+          <b-nav-item href="#36">Q36</b-nav-item>
+          <b-nav-item href="#37">Q37</b-nav-item>
+          <b-nav-item href="#38">Q38</b-nav-item>
+          <b-nav-item href="#39">Q39</b-nav-item>
+          <b-nav-item href="#40">Q40</b-nav-item>
+          <b-nav-item href="#41">Q41</b-nav-item>
+          <b-nav-item href="#42">Q42</b-nav-item>
+          <b-nav-item href="#43">Q43</b-nav-item>
+          <b-nav-item href="#44">Q44</b-nav-item>
+          <b-nav-item href="#45">Q45</b-nav-item>
+          <b-nav-item href="#46">Q46</b-nav-item>
+          <b-nav-item href="#47">Q47</b-nav-item>
+          <b-nav-item href="#48">Q48</b-nav-item>
+          <b-nav-item href="#49">Q49</b-nav-item>
+          <b-nav-item href="#50">Q50</b-nav-item>
+          <b-nav-item href="#51">Q51</b-nav-item>
+          <b-nav-item href="#52">Q52</b-nav-item>
+          <b-nav-item href="#53">Q53</b-nav-item>
+          <b-nav-item href="#54">Q54</b-nav-item>
+          <b-nav-item href="#55">Q55</b-nav-item>
+          <b-nav-item href="#56">Q56</b-nav-item>
+          <b-nav-item href="#57">Q57</b-nav-item>
+          <b-nav-item href="#58">Q58</b-nav-item>
+          <b-nav-item href="#59">Q59</b-nav-item>
+          <b-nav-item href="#60">Q60</b-nav-item>
+          <b-nav-item href="#61">Q61</b-nav-item>
+          <b-nav-item href="#62">Q62</b-nav-item>
+          <b-nav-item href="#63">Q63</b-nav-item>
+          <b-nav-item href="#64">Q64</b-nav-item>
+          <b-nav-item href="#65">Q65</b-nav-item>
+          <b-nav-item href="#66">Q66</b-nav-item>
+          <b-nav-item href="#67">Q67</b-nav-item>
+          <b-nav-item href="#68">Q68</b-nav-item>
+          <b-nav-item href="#69">Q69</b-nav-item>
+          <b-nav-item href="#70">Q70</b-nav-item>
+          <b-nav-item href="#71">Q71</b-nav-item>
+          <b-nav-item href="#72">Q72</b-nav-item>
+          <b-nav-item href="#73">Q73</b-nav-item>
+          <b-nav-item href="#74">Q74</b-nav-item>
+          <b-nav-item href="#75">Q75</b-nav-item>
+          <b-nav-item href="#76">Q76</b-nav-item>
+          <b-nav-item href="#77">Q77</b-nav-item>
+          <b-nav-item href="#78">Q78</b-nav-item>
+          <b-nav-item href="#79">Q79</b-nav-item>
+          <b-nav-item href="#80">Q80</b-nav-item>
+          <b-nav-item href="#81">Q81</b-nav-item>
+          <b-nav-item href="#82">Q82</b-nav-item>
+          <b-nav-item href="#83">Q83</b-nav-item>
+          <b-nav-item href="#84">Q84</b-nav-item>
+          <b-nav-item href="#85">Q85</b-nav-item>
+          <b-nav-item href="#86">Q86</b-nav-item>
+          <b-nav-item href="#87">Q87</b-nav-item>
+          <b-nav-item href="#88">Q88</b-nav-item>
+          <b-nav-item href="#89">Q89</b-nav-item>
+          <b-nav-item href="#90">Q90</b-nav-item>
+          <b-nav-item href="#91">Q91</b-nav-item>
+          <b-nav-item href="#92">Q92</b-nav-item>
+          <b-nav-item href="#93">Q93</b-nav-item>
+          <b-nav-item href="#94">Q94</b-nav-item>
+          <b-nav-item href="#95">Q95</b-nav-item>
+          <b-nav-item href="#96">Q96</b-nav-item>
+          <b-nav-item href="#97">Q97</b-nav-item>
+          <b-nav-item href="#98">Q98</b-nav-item>
+          <b-nav-item href="#99">Q99</b-nav-item>
+          <b-nav-item href="#100">Q100</b-nav-item>
+          <b-nav-item href="#101">Q101</b-nav-item>
+          <b-nav-item href="#102">Q102</b-nav-item>
+          <b-nav-item href="#103">Q103</b-nav-item>
+          <b-nav-item href="#104">Q104</b-nav-item>
+          <b-nav-item href="#105">Q105</b-nav-item>
+          <b-nav-item href="#106">Q106</b-nav-item>
+          <b-nav-item href="#107">Q107</b-nav-item>
+        </div>
+      <!--<a>
         <a href='#1'>Q1</a> /
         <a href='#2'>Q2</a> /
         <a href='#3'>Q3</a> /
@@ -117,7 +226,7 @@
         <a href='#105'>Q105</a> /
         <a href='#106'>Q106</a> /
         <a href='#107'>Q107</a>
-      </a>
+      </a>-->
         </b-col>
       </b-row>
       <b-row>
@@ -126,6 +235,121 @@
         </b-col>
       </b-row>
     </b-container >
+    <b-container fluid>
+      <b-row>
+      <b-col cols="1" class="d-none d-lg-block">
+        <b-list-group v-b-scrollspy:listgroup-ex style=' padding-top: 15px'>
+          <b-list-group-item href="#1">Q01</b-list-group-item>
+          <b-list-group-item href="#2">Q02</b-list-group-item>
+          <b-list-group-item href="#3">Q03</b-list-group-item>
+          <b-list-group-item href="#4">Q04</b-list-group-item>
+          <b-list-group-item href="#5">Q05</b-list-group-item>
+          <b-list-group-item href="#6">Q06</b-list-group-item>
+          <b-list-group-item href="#7">Q07</b-list-group-item>
+          <b-list-group-item href="#8">Q08</b-list-group-item>
+          <b-list-group-item href="#9">Q09</b-list-group-item>
+          <b-list-group-item href="#10">Q10</b-list-group-item>
+          <b-list-group-item href="#11">Q11</b-list-group-item>
+          <b-list-group-item href="#12">Q12</b-list-group-item>
+          <b-list-group-item href="#13">Q13</b-list-group-item>
+          <b-list-group-item href="#14">Q14</b-list-group-item>
+          <b-list-group-item href="#15">Q15</b-list-group-item>
+          <b-list-group-item href="#16">Q16</b-list-group-item>
+          <b-list-group-item href="#17">Q17</b-list-group-item>
+          <b-list-group-item href="#18">Q18</b-list-group-item>
+          <b-list-group-item href="#19">Q19</b-list-group-item>
+          <b-list-group-item href="#20">Q20</b-list-group-item>
+          <b-list-group-item href="#21">Q21</b-list-group-item>
+          <b-list-group-item href="#22">Q22</b-list-group-item>
+          <b-list-group-item href="#23">Q23</b-list-group-item>
+          <b-list-group-item href="#24">Q24</b-list-group-item>
+          <b-list-group-item href="#25">Q25</b-list-group-item>
+          <b-list-group-item href="#26">Q26</b-list-group-item>
+          <b-list-group-item href="#27">Q27</b-list-group-item>
+          <b-list-group-item href="#28">Q28</b-list-group-item>
+          <b-list-group-item href="#29">Q29</b-list-group-item>
+          <b-list-group-item href="#30">Q30</b-list-group-item>
+          <b-list-group-item href="#31">Q31</b-list-group-item>
+          <b-list-group-item href="#32">Q32</b-list-group-item>
+          <b-list-group-item href="#33">Q33</b-list-group-item>
+          <b-list-group-item href="#34">Q34</b-list-group-item>
+          <b-list-group-item href="#35">Q35</b-list-group-item>
+          <b-list-group-item href="#36">Q36</b-list-group-item>
+          <b-list-group-item href="#37">Q37</b-list-group-item>
+          <b-list-group-item href="#38">Q38</b-list-group-item>
+          <b-list-group-item href="#39">Q39</b-list-group-item>
+          <b-list-group-item href="#40">Q40</b-list-group-item>
+          <b-list-group-item href="#41">Q41</b-list-group-item>
+          <b-list-group-item href="#42">Q42</b-list-group-item>
+          <b-list-group-item href="#43">Q43</b-list-group-item>
+          <b-list-group-item href="#44">Q44</b-list-group-item>
+          <b-list-group-item href="#45">Q45</b-list-group-item>
+          <b-list-group-item href="#46">Q46</b-list-group-item>
+          <b-list-group-item href="#47">Q47</b-list-group-item>
+          <b-list-group-item href="#48">Q48</b-list-group-item>
+          <b-list-group-item href="#49">Q49</b-list-group-item>
+          <b-list-group-item href="#50">Q50</b-list-group-item>
+          <b-list-group-item href="#51">Q51</b-list-group-item>
+          <b-list-group-item href="#52">Q52</b-list-group-item>
+          <b-list-group-item href="#53">Q53</b-list-group-item>
+          <b-list-group-item href="#54">Q54</b-list-group-item>
+          <b-list-group-item href="#55">Q55</b-list-group-item>
+          <b-list-group-item href="#56">Q56</b-list-group-item>
+          <b-list-group-item href="#57">Q57</b-list-group-item>
+          <b-list-group-item href="#58">Q58</b-list-group-item>
+          <b-list-group-item href="#59">Q59</b-list-group-item>
+          <b-list-group-item href="#60">Q60</b-list-group-item>
+          <b-list-group-item href="#61">Q61</b-list-group-item>
+          <b-list-group-item href="#62">Q62</b-list-group-item>
+          <b-list-group-item href="#63">Q63</b-list-group-item>
+          <b-list-group-item href="#64">Q64</b-list-group-item>
+          <b-list-group-item href="#65">Q65</b-list-group-item>
+          <b-list-group-item href="#66">Q66</b-list-group-item>
+          <b-list-group-item href="#67">Q67</b-list-group-item>
+          <b-list-group-item href="#68">Q68</b-list-group-item>
+          <b-list-group-item href="#69">Q69</b-list-group-item>
+          <b-list-group-item href="#70">Q70</b-list-group-item>
+          <b-list-group-item href="#71">Q71</b-list-group-item>
+          <b-list-group-item href="#72">Q72</b-list-group-item>
+          <b-list-group-item href="#73">Q73</b-list-group-item>
+          <b-list-group-item href="#74">Q74</b-list-group-item>
+          <b-list-group-item href="#75">Q75</b-list-group-item>
+          <b-list-group-item href="#76">Q76</b-list-group-item>
+          <b-list-group-item href="#77">Q77</b-list-group-item>
+          <b-list-group-item href="#78">Q78</b-list-group-item>
+          <b-list-group-item href="#79">Q79</b-list-group-item>
+          <b-list-group-item href="#80">Q80</b-list-group-item>
+          <b-list-group-item href="#81">Q81</b-list-group-item>
+          <b-list-group-item href="#82">Q82</b-list-group-item>
+          <b-list-group-item href="#83">Q83</b-list-group-item>
+          <b-list-group-item href="#84">Q84</b-list-group-item>
+          <b-list-group-item href="#85">Q85</b-list-group-item>
+          <b-list-group-item href="#86">Q86</b-list-group-item>
+          <b-list-group-item href="#87">Q87</b-list-group-item>
+          <b-list-group-item href="#88">Q88</b-list-group-item>
+          <b-list-group-item href="#89">Q89</b-list-group-item>
+          <b-list-group-item href="#90">Q90</b-list-group-item>
+          <b-list-group-item href="#91">Q91</b-list-group-item>
+          <b-list-group-item href="#92">Q92</b-list-group-item>
+          <b-list-group-item href="#93">Q93</b-list-group-item>
+          <b-list-group-item href="#94">Q94</b-list-group-item>
+          <b-list-group-item href="#95">Q95</b-list-group-item>
+          <b-list-group-item href="#96">Q96</b-list-group-item>
+          <b-list-group-item href="#97">Q97</b-list-group-item>
+          <b-list-group-item href="#98">Q98</b-list-group-item>
+          <b-list-group-item href="#99">Q99</b-list-group-item>
+          <b-list-group-item href="#100">Q100</b-list-group-item>
+          <b-list-group-item href="#101">Q101</b-list-group-item>
+          <b-list-group-item href="#102">Q102</b-list-group-item>
+          <b-list-group-item href="#103">Q103</b-list-group-item>
+          <b-list-group-item href="#104">Q104</b-list-group-item>
+          <b-list-group-item href="#105">Q105</b-list-group-item>
+          <b-list-group-item href="#106">Q106</b-list-group-item>
+          <b-list-group-item href="#107">Q107</b-list-group-item>
+        </b-list-group>
+      </b-col>
+    <b-col lg="11" md='12' style='padding-top: 20px'>
+    <div id="listgroup-ex" style="position:relative; overflow-y:auto; height:5250px; ">
     <b-container id='1' fluid style="padding-top:200px; padding-bottom:200px;">
       <b-row >
         <b-col md='12' lg='4' offset-lg='1' style='padding-bottom:20px'>
@@ -2328,6 +2552,10 @@ comes to pass.
           </h4>
         </b-col>
       </b-row>
+    </b-container>
+    </div>
+    </b-col>
+    </b-row>
     </b-container>
 
     <b-container fluid class='blue' style="padding-top:25px; padding-bottom:25px">
