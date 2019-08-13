@@ -3,7 +3,8 @@
     <b-container fluid class='blue' >
       <b-row>
         <b-col xs='12'>
-          <img src="./assets/westminster_shorter.svg" height=auto width=900 style="position: relative; ">
+          <!--<img src="./assets/westminster_shorter.svg" height=auto width=900 style="position: relative; "> -->
+          <img src="./assets/westminster.png"  width=1200 style="padding-top: 100px;position: relative; ">
         </b-col>
       </b-row>
     
@@ -118,115 +119,6 @@
           <b-nav-item href="#106">Q106</b-nav-item>
           <b-nav-item href="#107">Q107</b-nav-item>
         </div>
-      <!--<a>
-        <a href='#1'>Q1</a> /
-        <a href='#2'>Q2</a> /
-        <a href='#3'>Q3</a> /
-        <a href='#4'>Q4</a> /
-        <a href='#5'>Q5</a> /
-        <a href='#6'>Q6</a> /
-        <a href='#7'>Q7</a> /
-        <a href='#8'>Q8</a> /
-        <a href='#9'>Q9</a> / 
-        <a href='#10'>Q10</a> /
-        <a href='#11'>Q11</a> /
-        <a href='#12'>Q12</a> /
-        <a href='#13'>Q13</a> /
-        <a href='#14'>Q14</a> /
-        <a href='#15'>Q15</a> /
-        <a href='#16'>Q16</a> /
-        <a href='#17'>Q17</a> /
-        <a href='#18'>Q18</a> /
-        <a href='#19'>Q19</a> / 
-        <a href='#20'>Q20</a> /
-        <a href='#21'>Q21</a> /
-        <a href='#22'>Q22</a> /
-        <a href='#23'>Q23</a> /
-        <a href='#24'>Q24</a> /
-        <a href='#25'>Q25</a> /
-        <a href='#26'>Q26</a> /
-        <a href='#27'>Q27</a> /
-        <a href='#28'>Q28</a> /
-        <a href='#29'>Q29</a> / 
-        <a href='#30'>Q30</a> /
-        <a href='#31'>Q31</a> /
-        <a href='#32'>Q32</a> /
-        <a href='#33'>Q33</a> /
-        <a href='#34'>Q34</a> /
-        <a href='#35'>Q35</a> /
-        <a href='#36'>Q36</a> /
-        <a href='#37'>Q37</a> /
-        <a href='#38'>Q38</a> /
-        <a href='#39'>Q39</a> / 
-        <a href='#40'>Q40</a> /
-        <a href='#41'>Q41</a> /
-        <a href='#42'>Q42</a> /
-        <a href='#43'>Q43</a> /
-        <a href='#44'>Q44</a> /
-        <a href='#45'>Q45</a> /
-        <a href='#46'>Q46</a> /
-        <a href='#47'>Q47</a> /
-        <a href='#48'>Q48</a> /
-        <a href='#49'>Q49</a> / 
-        <a href='#50'>Q50</a> /
-        <a href='#51'>Q51</a> /
-        <a href='#52'>Q52</a> /
-        <a href='#53'>Q53</a> /
-        <a href='#54'>Q54</a> /
-        <a href='#55'>Q55</a> /
-        <a href='#56'>Q56</a> /
-        <a href='#57'>Q57</a> /
-        <a href='#58'>Q58</a> /
-        <a href='#59'>Q59</a> / 
-        <a href='#60'>Q60</a> /
-        <a href='#61'>Q61</a> /
-        <a href='#62'>Q62</a> /
-        <a href='#63'>Q63</a> /
-        <a href='#64'>Q64</a> /
-        <a href='#65'>Q65</a> /
-        <a href='#66'>Q66</a> /
-        <a href='#67'>Q67</a> /
-        <a href='#68'>Q68</a> /
-        <a href='#69'>Q69</a> / 
-        <a href='#70'>Q70</a> /
-        <a href='#71'>Q71</a> /
-        <a href='#72'>Q72</a> /
-        <a href='#73'>Q73</a> /
-        <a href='#74'>Q74</a> /
-        <a href='#75'>Q75</a> /
-        <a href='#76'>Q76</a> /
-        <a href='#77'>Q77</a> /
-        <a href='#78'>Q78</a> /
-        <a href='#79'>Q79</a> / 
-        <a href='#80'>Q80</a> /
-        <a href='#81'>Q81</a> /
-        <a href='#82'>Q82</a> /
-        <a href='#83'>Q83</a> /
-        <a href='#84'>Q84</a> /
-        <a href='#85'>Q85</a> /
-        <a href='#86'>Q86</a> /
-        <a href='#87'>Q87</a> /
-        <a href='#88'>Q88</a> /
-        <a href='#89'>Q89</a> / 
-        <a href='#90'>Q90</a> /
-        <a href='#91'>Q91</a> /
-        <a href='#92'>Q92</a> /
-        <a href='#93'>Q93</a> /
-        <a href='#94'>Q94</a> /
-        <a href='#95'>Q95</a> /
-        <a href='#96'>Q96</a> /
-        <a href='#97'>Q97</a> /
-        <a href='#98'>Q98</a> /
-        <a href='#99'>Q99</a> / 
-        <a href='#100'>Q100</a> /
-        <a href='#101'>Q101</a> /
-        <a href='#102'>Q102</a> /
-        <a href='#103'>Q103</a> /
-        <a href='#104'>Q104</a> /
-        <a href='#105'>Q105</a> /
-        <a href='#106'>Q106</a> /
-        <a href='#107'>Q107</a>
-      </a>-->
         </b-col>
       </b-row>
       <b-row>
@@ -349,7 +241,7 @@
         </b-list-group>
       </b-col>
     <b-col lg="11" md='12' style='padding-top: 20px'>
-    <div id="listgroup-ex" style="position:relative; overflow-y:auto; height:5250px; ">
+    <div id="listgroup-ex" style="position:relative; overflow-y:auto; height:5250px;">
     <b-container id='1' fluid style="padding-top:200px; padding-bottom:200px;">
       <b-row >
         <b-col md='12' lg='4' offset-lg='1' style='padding-bottom:20px'>
@@ -2593,7 +2485,8 @@ export default {
 }
 
 .blue {
-  background: #172937;
+   /*background: #172937;*/
+  background: #364652;
   color: white;
 }
 
@@ -2613,5 +2506,9 @@ li {
 
 a {
   color: #858170 !important;
+}
+img {
+  max-width: 65%;
+    
 }
 </style>
